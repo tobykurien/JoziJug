@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="JoziJug" parent="@android:style/Theme.Light"></style>
+
+    <style name="Heading" parent="@android:style/TextAppearance.Large">
+        <item name="android:background">@drawable/heading_background</item>
+        <item name="android:padding">6dp</item>
+        <item name="android:layout_margin">6dp</item>
+    </style>
+
+    <style name="HomeButton">
+        <item name="android:layout_margin">6dp</item>
+        <item name="android:background">@drawable/home_button_bg</item>
+    </style>
+
+</resources>
